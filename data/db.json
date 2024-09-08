@@ -1,0 +1,39 @@
+{
+  "decks": [
+    {
+      "name": "test2",
+      "description": "fdsfdsf",
+      "id": 2
+    },
+    {
+      "name": "werewr",
+      "description": "werewr",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "description": "test",
+      "id": 4
+    }
+  ],
+  "cards": [
+    {
+      "id": 4,
+      "front": "tesdcsdc",
+      "back": "esressdcd",
+      "deckId": 4
+    },
+    {
+      "front": "eresr",
+      "back": "esresr",
+      "deckId": 4,
+      "id": 5
+    },
+    {
+      "front": "esresr",
+      "back": "esresr",
+      "deckId": 4,
+      "id": 6
+    }
+  ]
+}
